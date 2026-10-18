@@ -254,7 +254,7 @@ python -m venv .venv
 Activar el entorno virtual:
 
 ```powershell
-.\.venv\Scripts\Activate.ps1
+.\.venv\Scripts\Activate
 ```
 
 instalar las dependencias:
@@ -268,7 +268,7 @@ pip install -r proyecto_visualizaciones\requirements.txt
 Desde la raíz del repositorio, ejecutar:
 
 ```powershell
-python \proyecto_visualizaciones\app.py
+python proyecto_visualizaciones\app.py
 ```
 
 La aplicación abrirá su interfaz gráfica, desde la cual se podrán seleccionar las visualizaciones y utilizar los controles interactivos disponibles.
