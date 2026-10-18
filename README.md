@@ -222,7 +222,7 @@ El tablero incorpora un filtro por categoría y acciones de filtrado para facili
 
 **Evidencia 8. Tablero de Tableau Public**
 
-![captura del tablero de Tableau Public](evidencias\tablero_tableau.png)
+![captura del tablero de Tableau Public](evidencias/tablero_tableau.png)
 
 ## 12. Procedimiento para reproducir el proyecto
 
