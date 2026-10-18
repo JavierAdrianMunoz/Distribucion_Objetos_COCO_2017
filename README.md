@@ -240,7 +240,7 @@ Para ejecutar el proyecto en un equipo con Windows a partir de una copia del rep
 3. Entrar en la carpeta creada por Git:
 
    ```powershell
-   cd NOMBRE_DEL_REPOSITORIO
+   cd Distribucion_Objetos_COCO_2017
    ```
 
 ### 12.2. Preparar el entorno de Python
